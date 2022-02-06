@@ -1,6 +1,8 @@
 # ウェザーアプリ（React with TypeScript）
 Kindle本「はじめてつくるReactアプリ with TypeScript」
 
+公開サイトは[こちら](https://romantic-feynman-308fa2.netlify.app/)
+
 ---
 
 # Getting Started with Create React App
