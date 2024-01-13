@@ -2,6 +2,7 @@
 Kindle本「はじめてつくるReactアプリ with TypeScript」
 
 公開サイトは[こちら](https://romantic-feynman-308fa2.netlify.app/)
+<img width="1440" alt="スクリーンショット 2024-01-13 16 50 54" src="https://github.com/johncompany/react_weather_app/assets/72188206/153c5e82-f5e3-4809-8cd3-a099a56487e4">
 
 ---
 
